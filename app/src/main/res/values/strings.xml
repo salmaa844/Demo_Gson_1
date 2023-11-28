@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo_Gson_1</string>
+    <string-array name="options">
+        <item>Tasks Not Done</item>
+        <item>Tasks Done</item>
+    </string-array>
+</resources>
